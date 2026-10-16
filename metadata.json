@@ -1,0 +1,6 @@
+{
+  "name": "OmniForge AI - Multi-Model App Studio & Self-Evolving Tools",
+  "description": "Estudio de creación de aplicaciones por texto con redundancia multi-IA tolerante a desconexión y motor de auto-creación de herramientas de análisis y mejora.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
